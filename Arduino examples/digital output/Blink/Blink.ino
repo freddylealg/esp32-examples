@@ -10,5 +10,4 @@ void loop() {
   delay(50);                       // wait for a second
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
   delay(2000);                       // wait for a second
-  printf("Hello World");
 }
